@@ -137,7 +137,8 @@
             "BLOCKED_NOTE": "Motivo del bloqueo",
             "IS_BLOCKED": "está bloqueada",
             "REF": "Ref",
-            "VOTES": "Votos"
+            "VOTES": "Votos",
+            "SPRINT": "Sprint"
         },
         "ROLES": {
             "ALL": "Todos"
